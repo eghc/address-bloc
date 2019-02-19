@@ -1,0 +1,20 @@
+{
+  "development": {
+    "username": "macuser",
+    "password": null,
+    "database": "address-bloc-dev",
+    "host": "127.0.0.1",
+    "port":5432,
+    "dialect": "postgres",
+    "logging": false
+  },
+  "test": {
+    "username": "macuser",
+    "password": null,
+    "database": "address-bloc-test",
+    "host": "127.0.0.1",
+    "port":5432,
+    "dialect": "postgres",
+    "logging": false
+  }
+}
